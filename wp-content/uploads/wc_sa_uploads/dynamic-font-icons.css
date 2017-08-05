@@ -1,0 +1,269 @@
+/*status-default_statuses-start*/
+				body .widefat tr .column-order_status{
+					width: 80px;
+				}
+				
+						body .widefat .column-order_status mark.pending{
+							background-color: #ffba00;
+							border: 1px solid #ffba00;
+							color: #fff !important;
+						    display: block;
+						    border-radius: 3px;
+						    font-size: 0px;
+						    font-weight: normal;
+						    line-height: 0px;
+						    min-width: 80px;
+						    padding: 0;
+						    text-align: center;
+						    width: auto;
+						    height: auto;
+						}
+						body .widefat .column-order_status mark.pending:after{
+							content: "pending";
+							color: #fff !important;
+						    display: block;
+						    font-size: 11px;
+						    line-height: 22px;
+						    text-indent: 1px !important;
+						    font-family: "Open Sans",sans-serif;
+						    position: relative;
+						    -webkit-font-smoothing: auto;
+						}
+						body .widefat .column-order_status mark.processing{
+							background-color: #73a724;
+							border: 1px solid #73a724;
+							color: #fff !important;
+						    display: block;
+						    border-radius: 3px;
+						    font-size: 0px;
+						    font-weight: normal;
+						    line-height: 0px;
+						    min-width: 80px;
+						    padding: 0;
+						    text-align: center;
+						    width: auto;
+						    height: auto;
+						}
+						body .widefat .column-order_status mark.processing:after{
+							content: "new-order";
+							color: #fff !important;
+						    display: block;
+						    font-size: 11px;
+						    line-height: 22px;
+						    text-indent: 1px !important;
+						    font-family: "Open Sans",sans-serif;
+						    position: relative;
+						    -webkit-font-smoothing: auto;
+						}
+						body .widefat .column-order_status mark.on-hold{
+							background-color: #999999;
+							border: 1px solid #999999;
+							color: #fff !important;
+						    display: block;
+						    border-radius: 3px;
+						    font-size: 0px;
+						    font-weight: normal;
+						    line-height: 0px;
+						    min-width: 80px;
+						    padding: 0;
+						    text-align: center;
+						    width: auto;
+						    height: auto;
+						}
+						body .widefat .column-order_status mark.on-hold:after{
+							content: "on-hold";
+							color: #fff !important;
+						    display: block;
+						    font-size: 11px;
+						    line-height: 22px;
+						    text-indent: 1px !important;
+						    font-family: "Open Sans",sans-serif;
+						    position: relative;
+						    -webkit-font-smoothing: auto;
+						}
+						body .widefat .column-order_status mark.completed{
+							background-color: #2ea2cc;
+							border: 1px solid #2ea2cc;
+							color: #fff !important;
+						    display: block;
+						    border-radius: 3px;
+						    font-size: 0px;
+						    font-weight: normal;
+						    line-height: 0px;
+						    min-width: 80px;
+						    padding: 0;
+						    text-align: center;
+						    width: auto;
+						    height: auto;
+						}
+						body .widefat .column-order_status mark.completed:after{
+							content: "completed";
+							color: #fff !important;
+						    display: block;
+						    font-size: 11px;
+						    line-height: 22px;
+						    text-indent: 1px !important;
+						    font-family: "Open Sans",sans-serif;
+						    position: relative;
+						    -webkit-font-smoothing: auto;
+						}
+						body .widefat .column-order_status mark.cancelled{
+							background-color: #a00a00;
+							border: 1px solid #a00a00;
+							color: #fff !important;
+						    display: block;
+						    border-radius: 3px;
+						    font-size: 0px;
+						    font-weight: normal;
+						    line-height: 0px;
+						    min-width: 80px;
+						    padding: 0;
+						    text-align: center;
+						    width: auto;
+						    height: auto;
+						}
+						body .widefat .column-order_status mark.cancelled:after{
+							content: "cancelled";
+							color: #fff !important;
+						    display: block;
+						    font-size: 11px;
+						    line-height: 22px;
+						    text-indent: 1px !important;
+						    font-family: "Open Sans",sans-serif;
+						    position: relative;
+						    -webkit-font-smoothing: auto;
+						}
+						body .widefat .column-order_status mark.refunded{
+							background-color: #999999;
+							border: 1px solid #999999;
+							color: #fff !important;
+						    display: block;
+						    border-radius: 3px;
+						    font-size: 0px;
+						    font-weight: normal;
+						    line-height: 0px;
+						    min-width: 80px;
+						    padding: 0;
+						    text-align: center;
+						    width: auto;
+						    height: auto;
+						}
+						body .widefat .column-order_status mark.refunded:after{
+							content: "refunded";
+							color: #fff !important;
+						    display: block;
+						    font-size: 11px;
+						    line-height: 22px;
+						    text-indent: 1px !important;
+						    font-family: "Open Sans",sans-serif;
+						    position: relative;
+						    -webkit-font-smoothing: auto;
+						}
+						body .widefat .column-order_status mark.failed{
+							background-color: #d0c21f;
+							border: 1px solid #d0c21f;
+							color: #fff !important;
+						    display: block;
+						    border-radius: 3px;
+						    font-size: 0px;
+						    font-weight: normal;
+						    line-height: 0px;
+						    min-width: 80px;
+						    padding: 0;
+						    text-align: center;
+						    width: auto;
+						    height: auto;
+						}
+						body .widefat .column-order_status mark.failed:after{
+							content: "failed";
+							color: #fff !important;
+						    display: block;
+						    font-size: 11px;
+						    line-height: 22px;
+						    text-indent: 1px !important;
+						    font-family: "Open Sans",sans-serif;
+						    position: relative;
+						    -webkit-font-smoothing: auto;
+						}/*status-default_statuses-end*//*status-2400-start*/
+				.widefat .column-order_status mark.order-logistics{
+					background-color:#8224e3;
+					border: 1px solid #8224e3;
+					color: #fff;
+				    display: block;
+				    border-radius: 3px;
+				    font-size: 0px;
+				    font-weight: normal;
+				    line-height: 0px;
+				    min-width: 80px;
+				    padding: 0;
+				    text-align: center;
+				    width: auto;
+				    height: auto;
+				}
+				.widefat .column-order_status mark.order-logistics:after{
+					content: "order-logistics";
+				    display: block;
+				    font-size: 11px;
+				    line-height: 22px;
+				    text-indent: 1px !important;
+				}
+				.widefat tr .column-order_status{
+					width: 80px;
+				}
+				
+					#woocommerce_dashboard_status .wc_status_list li.order-logistics-orders a:before{
+						color: #8224e3;
+						content: "\e102";
+						font-family: 'WC-SA-Icons' !important;
+						font-size: 12px;
+						color:#8224e3;
+						border: 1px solid #8224e3;
+						width: 18px;
+	    				height: 18px;
+	    				line-height: 18px;
+	    				padding: 3px;
+	    				border-radius: 100%;
+	    				text-align: center;
+					}/*status-2400-end*//*status-2401-start*/
+				.widefat .column-order_status mark.new-order{
+					background-color:#81d742;
+					border: 1px solid #81d742;
+					color: #fff;
+				    display: block;
+				    border-radius: 16px;
+				    font-size: 0px;
+				    font-weight: normal;
+				    line-height: 0px;
+				    min-width: 80px;
+				    padding: 0;
+				    text-align: center;
+				    width: auto;
+				    height: auto;
+				}
+				.widefat .column-order_status mark.new-order:after{
+					content: "new-order";
+				    display: block;
+				    font-size: 9px;
+				    line-height: 17px;
+				    text-transform: uppercase;
+				    font-weight: bold;
+				    text-indent: 1px !important;
+				}
+				.widefat tr .column-order_status{
+					width: 80px;
+				}
+				
+					#woocommerce_dashboard_status .wc_status_list li.new-order-orders a:before{
+						color: #81d742;
+						content: "\e227";
+						font-family: 'WC-SA-Icons' !important;
+						font-size: 12px;
+						color:#81d742;
+						border: 1px solid #81d742;
+						width: 18px;
+	    				height: 18px;
+	    				line-height: 18px;
+	    				padding: 3px;
+	    				border-radius: 100%;
+	    				text-align: center;
+					}/*status-2401-end*/

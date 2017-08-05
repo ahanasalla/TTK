@@ -1,0 +1,277 @@
+#section-397{ background:url() no-repeat scroll center center #f6f6f6; background-size:cover; color:#4c4c4c}
+#section-397.parallax-section h1{ color:#333333}
+#section-397 .testimonial-listing .bx-wrapper .bx-controls-direction a{border-color:#4c4c4c;color:#4c4c4c}
+#section-397.service_template .section-wrap::after{ background-color:#f6f6f6}
+#section-160{ background:url(https://thetownkitchen.com/wp-content/uploads/2017/03/Youth-in-Kitchen-Compressed.jpg) repeat fixed bottom center #ffffff; background-size:auto; color:#ffffff}
+#section-160 .overlay { background:url(https://thetownkitchen.com/wp-content/themes/accesspress_parallax_pro/images/overlays/overlay2.png);}
+#section-160.parallax-section h1{ color:#ffffff}
+#section-160 .testimonial-listing .bx-wrapper .bx-controls-direction a{border-color:#ffffff;color:#ffffff}
+#section-160.service_template .section-wrap::after{ background-color:#ffffff}
+#section-416{ background:url() no-repeat scroll bottom center #b31f24; background-size:auto; color:#ffffff}
+#section-416.parallax-section h1{ color:#ffffff}
+#section-416 .testimonial-listing .bx-wrapper .bx-controls-direction a{border-color:#ffffff;color:#ffffff}
+#section-416.service_template .section-wrap::after{ background-color:#b31f24}
+#section-746{ background:url(https://thetownkitchen.com/wp-content/uploads/2017/06/Minted-Chickpea-Salad-Home-Page.jpg) no-repeat fixed center center #ffffff; background-size:cover; color:#ffffff}
+#section-746 .overlay { background:url(https://thetownkitchen.com/wp-content/themes/accesspress_parallax_pro/images/overlays/overlay2.png);}
+#section-746.parallax-section h1{ color:#ffffff}
+#section-746 .testimonial-listing .bx-wrapper .bx-controls-direction a{border-color:#ffffff;color:#ffffff}
+#section-746.service_template .section-wrap::after{ background-color:#ffffff}
+#section-360{ background:url() repeat fixed top center #ffffff; background-size:auto; color:#666666}
+#section-360 .overlay { background:url(https://thetownkitchen.com/wp-content/themes/accesspress_parallax_pro/images/overlays/white-light-bg.png);}
+#section-360.parallax-section h1{ color:#333333}
+#section-360 .testimonial-listing .bx-wrapper .bx-controls-direction a{border-color:#666666;color:#666666}
+#section-360.service_template .section-wrap::after{ background-color:#ffffff}
+#section-1007{ background:url(https://thetownkitchen.com/wp-content/uploads/2017/03/Kitchen-Utensil-Background-2-Compressed.jpg) repeat fixed top center #FFFFFF; background-size:auto; color:#ffffff}
+#section-1007 .overlay { background:url(https://thetownkitchen.com/wp-content/themes/accesspress_parallax_pro/images/overlays/overlay2.png);}
+#section-1007.parallax-section h1{ color:#ffffff}
+#section-1007 .testimonial-listing .bx-wrapper .bx-controls-direction a{border-color:#ffffff;color:#ffffff}
+#section-1007.service_template .section-wrap::after{ background-color:#FFFFFF}
+#section-135{ background:url(https://thetownkitchen.com/wp-content/uploads/2017/03/Map-Compressed.jpg) no-repeat scroll center center ; background-size:cover; color:}
+#section-135.parallax-section h1{ color:}
+#section-135 .testimonial-listing .bx-wrapper .bx-controls-direction a{border-color:;color:}
+#section-135.service_template .section-wrap::after{ background-color:}
+#top-header{ background:#232323;font-size:13px;font-family:PT Sans;font-weight:400;color:#ffffff;line-height:38px}
+#top-header a{color:#ffffff}
+#top-header a:hover{color:#d3d3d3}
+#main-header{ background:#ffffff}
+#main-header{background:rgba(255,255,255,1)}
+#main-header.no-opacity, #main-header.pos-bottom{ background:#ffffff}
+.main-navigation{margin-top:20px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.main-navigation ul li a{font-size:18px;font-family:Muli;font-weight:300;color:#333333;text-transform:uppercase}
+.main-navigation > ul > li a:hover, .main-navigation > ul > li.current a, .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a{color:#b31f24}
+.main-navigation .sf-arrows .sf-with-ul:after{border-color:#333333 transparent transparent}
+.main-navigation .sf-arrows ul .sf-with-ul:after{border-left-color:#333333 !important}
+#site-logo{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.top-menu ul.menu ul{background:#232323;}
+.top-menu .sf-arrows .sf-with-ul:after{border-color:#ffffff transparent transparent}
+.top-menu .sf-arrows ul .sf-with-ul:after{border-left-color:#ffffff !important}
+.social-icons a, .social-icons a span{background:#b31f24}
+.social-icons a:hover{background:#9b1539}
+.social-icons.appear-left a span:after{border-right-color:#b31f24}
+.social-icons.appear-right a span:after{border-left-color:#b31f24}
+.social-icons.appear-top a span:after{border-bottom-color:#b31f24}
+.social-icons.appear-bottom a span:after{border-top-color:#b31f24}
+body, button, input, select, textarea{ font-size:16px;font-family:Roboto;font-weight:100;color:#444444}
+h1{ font-size:32px;font-family:Roboto;font-weight:100;color:#333333;text-transform:uppercase}
+h2{ font-size:28px;font-family:'Roboto';font-weight:300;color:#333333;text-transform:uppercase}
+h3{ font-size:24px;font-family:'Roboto';font-weight:300;color:#333333;text-transform:uppercase}
+h4{ font-size:20px;font-family:'Roboto';font-weight:300;color:#333333;text-transform:uppercase}
+h5{ font-size:18px;font-family:'Roboto';font-weight:100;color:#333333;text-transform:uppercase}
+h6{ font-size:16px;font-family:'Roboto';font-weight:100;color:#333333;text-transform:uppercase}
+#secondary-left .widget-title,#secondary-right .widget-title, #secondary .widget-title{ font-size:20px;font-family:'Roboto';font-weight:400;color:#333333;text-transform:uppercase}
+.top-footer .widget-title{ font-size:10px;font-family:'Arial';font-weight:400;color:;text-transform:uppercase}
+.top-footer .widget-title:after{border-color:}
+.top-footer{background:#b31f24;color:#ffffff}
+.top-footer h4{color:}
+.top-footer a{color:#ffffff}
+.bottom-footer{background:#b31f24;color:#ffffff}
+.bottom-footer a, .footer-social-icons a{color:#ffffff}
+.footer-social-icons a{border-color:#ffffff}
+.footer-social-icons a:hover{background:#ffffff}
+.single #header-wrap .entry-title, .single #header-wrap .title-breadcrumb-wrap a, .single #header-wrap .title-breadcrumb-wrap{color:#ffffff}
+.page #header-wrap .entry-title, .page #header-wrap .title-breadcrumb-wrap a, .page #header-wrap .title-breadcrumb-wrap{color:#ffffff}
+.archive #header-wrap .entry-title, .archive #header-wrap .title-breadcrumb-wrap a, .archive #header-wrap .title-breadcrumb-wrap{color:#ffffff}
+.error404 #header-wrap .entry-title, .error404 #header-wrap .title-breadcrumb-wrap a, .error404 #header-wrap .title-breadcrumb-wrap{color:#ffffff}
+#page-overlay{background-image:url(https://thetownkitchen.com/wp-content/themes/accesspress_parallax_pro/images/preloader/loader8.gif)}
+#ap-map-canvas{height:400px !important}
+#main-header{box-shadow: 0px 4px 10px rgba(0,0,0,0.3);}
+#accesspress-breadcrumb{display:none;}#main-slider .overlay{background-image:url(https://thetownkitchen.com/wp-content/themes/accesspress_parallax_pro/images/overlays/overlay4.png);}.main-navigation ul ul li.current_page_item > a, 
+.main-navigation ul ul li.current-menu-item > a, 
+.main-navigation ul ul li > a:hover,
+.ap-icon-text.style3 .ap-icon-text-icon i, 
+.ap-icon-text.style4 .ap-icon-text-icon i,
+.bttn:after,
+#go-top,
+.blog-list .blog-excerpt span,
+.ap-bttn:before,
+.ap-bttn:after,
+.ap-bttn,
+.member-social-group a:hover,
+.ap-progress-bar .ap-progress-bar-percentage,
+.googlemap-contact-wrap li .fa,
+.post-listing .posted-on,
+.horizontal .ap_tab_group .tab-title.active, 
+.horizontal .ap_tab_group .tab-title.hover,
+.vertical .ap_tab_group .tab-title.active, 
+.vertical .ap_tab_group .tab-title.hover,
+#portfolio-grid.style4 h4,
+.mm-menu,
+.menu-toggle span,
+.menu-toggle span:after,
+.menu-toggle span:before,
+.ap_toggle .ap_toggle_title,
+.bttn:hover,
+.bttn:active,
+.portfolio-listing .button-group li.is-checked,
+.bx-wrapper .bx-pager.bx-default-pager a:hover, 
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.error-404,
+button,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+.bttn.ap-default-bttn.ap-bg-bttn,
+.bttn.ap-default-bttn.ap-outline-bttn:hover,
+.ap_tagline_box.ap-bg-box,
+.ap-dropcaps.ap-square,
+#collapse-nav,
+.woocommerce ul.products li.product .onsale, 
+.woocommerce span.onsale,
+.woocommerce ul.products li.product .button,
+.woocommerce nav.woocommerce-pagination ul li a, 
+.woocommerce nav.woocommerce-pagination ul li span,
+.woocommerce #respond input#submit.alt, 
+.woocommerce a.button.alt, 
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce #respond input#submit:hover, 
+.woocommerce a.button:hover, 
+.woocommerce button.button:hover, 
+.woocommerce input.button:hover,
+ .woocommerce #respond input#submit.alt.disabled, 
+.woocommerce #respond input#submit.alt.disabled:hover, 
+.woocommerce #respond input#submit.alt:disabled, 
+.woocommerce #respond input#submit.alt:disabled:hover, 
+.woocommerce #respond input#submit.alt:disabled[disabled], 
+.woocommerce #respond input#submit.alt:disabled[disabled]:hover, 
+.woocommerce a.button.alt.disabled, 
+.woocommerce a.button.alt.disabled:hover, 
+.woocommerce a.button.alt:disabled, 
+.woocommerce a.button.alt:disabled:hover, 
+.woocommerce a.button.alt:disabled[disabled], 
+.woocommerce a.button.alt:disabled[disabled]:hover, 
+.woocommerce button.button.alt.disabled, 
+.woocommerce button.button.alt.disabled:hover, 
+.woocommerce button.button.alt:disabled, 
+.woocommerce button.button.alt:disabled:hover, 
+.woocommerce button.button.alt:disabled[disabled], 
+.woocommerce button.button.alt:disabled[disabled]:hover, 
+.woocommerce input.button.alt.disabled, 
+.woocommerce input.button.alt.disabled:hover, 
+.woocommerce input.button.alt:disabled, 
+.woocommerce input.button.alt:disabled:hover, 
+.woocommerce input.button.alt:disabled[disabled], 
+.woocommerce input.button.alt:disabled[disabled]:hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range{
+background-color:#b31f24;
+}
+
+a,
+.bttn,
+.member-social-group a,
+.ap-toggle-title .pointer span i,
+.ap_toggle .ap_toggle_title:after,
+.sidebar .widget-social-icons li a,
+.team-tab .bx-wrapper .bx-controls-direction a,
+#portfolio-grid.style2 .portfolio-link:hover,
+.style1 .fancybox-gallery:hover,
+.footer-social-icons a:hover,
+.sidebar .menu li a:hover,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.sidebar ul li a:hover,
+.sidebar ul li.current-menu-item > a,
+.woocommerce .woocommerce-info:before,
+.bttn.ap-default-bttn.ap-outline-bttn{
+color:#b31f24;
+}
+
+.bttn,
+.team-image:hover, .team-image.active,
+.blog-list .blog-excerpt,
+.ap-toggle-title,
+.ap-toggle-title .pointer,
+.ap_toggle,
+.main-navigation ul ul li.current_page_item > a, 
+.main-navigation ul ul li.current-menu-item > a, 
+.main-navigation ul ul li > a:hover,
+.menu-toggle,
+.sidebar .widget-title:after,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.bttn.ap-default-bttn.ap-outline-bttn,
+.ap_tagline_box.ap-top-border-box,
+.ap_tagline_box.ap-left-border-box,
+.ap_tagline_box.ap-all-border-box,
+input[type="text"]:focus, 
+input[type="email"]:focus, 
+input[type="url"]:focus, 
+input[type="password"]:focus, 
+input[type="search"]:focus, 
+input[type="number"]:focus, 
+input[type="tel"]:focus, 
+input[type="range"]:focus, 
+input[type="date"]:focus, 
+input[type="month"]:focus, 
+input[type="week"]:focus, 
+input[type="time"]:focus, 
+input[type="datetime"]:focus, 
+input[type="datetime-local"]:focus, 
+input[type="color"]:focus, 
+textarea:focus,
+.woocommerce ul.products li.product h3,
+.woocommerce .woocommerce-info{
+border-color:#b31f24;
+}
+
+.mm-menu .mm-list > li:after,
+.mm-menu .mm-list > li > a.mm-subopen:before,
+.main-navigation > ul > li{
+border-color:#a11c20;
+}
+
+.bttn.ap-default-bttn.ap-bg-bttn:hover,
+.woocommerce ul.products li.product .button:hover,
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover{
+background:#a11c20;
+}
+
+.ap-icon-text.style3 .ap-icon-text-icon i:after, 
+.ap-icon-text.style4 .ap-icon-text-icon i:after{
+box-shadow: 0 0 0 1px #b31f24;
+}
+
+#portfolio-grid.style3 .portfolio-overlay,
+#portfolio-grid.style2 .portfolio-inner,
+#portfolio-grid.style1 .portfolio-overlay,
+.style1.ap-team .ap-member-image:after{
+background:rgba(179,31,36,0.8)    
+}
+.ap-progress-bar{
+background:rgba(179,31,36,0.3)    
+}
+.post-listing .posted-on:before{
+border-color:transparent transparent #a11c20 #a11c20;
+}
+
+@media screen and (max-width:768px){
+    .main-navigation ul ul{
+        background:#b31f24; 
+    }
+    .main-navigation ul ul a,
+    .main-navigation ul ul li > a:hover{
+        border-color:#a11c20;
+    }
+    
+        #accesspress-breadcrumb{display:none;};
+    }
+
+@media screen and (max-width:1000px){
+    .main-navigation > ul{
+        background-color:#b31f24;
+    }
+}
+
+#primary{
+width: 100%;
+}
+
+.sidebar{
+display: none;
+}

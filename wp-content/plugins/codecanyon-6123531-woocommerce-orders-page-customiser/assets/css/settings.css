@@ -1,0 +1,84 @@
+#wc_order_page_columns thead th{
+	border-right: 1px solid #e1e1e1; 
+	color: #333;
+	padding: 10px 10px 8px 10px;
+	line-height: 1.4em;
+	border-bottom: 1px solid #e1e1e1;
+	overflow: visible;
+}
+#wc_order_page_columns th{
+	font-weight: 400;
+	font-size: 14px;
+	text-align: left;
+}
+#wc_order_page_columns tbody td{
+	font-size: 13px;
+  line-height: 1.5em;
+}
+
+#wc_order_page_columns{
+	border-spacing: 0;
+  clear: both;
+  margin: 0;
+  width: 100%;
+	background: #fff;
+	border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+#wc_order_page_columns thead th.check-column {
+    padding-top: 10px;
+}
+#wc_order_page_columns tr.static_defined_values,
+#wc_order_page_columns tr.dynamic_defined_values{
+    display: none;
+}
+#wc_order_page_columns tr.static_defined_values td,
+#wc_order_page_columns tr.dynamic_defined_values td{
+    border-bottom: 1px solid #e1e1e1;
+    border-right: 1px solid #e1e1e1;
+    color: #333;
+    line-height: 1.4em;
+    text-align: center;
+    overflow: visible;
+}
+#wc_order_page_columns tr.static_defined_values td input,
+#wc_order_page_columns tr.dynamic_defined_values td input{
+    max-width: 90px;
+    width: 90%;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 1020;
+    display: block;
+    padding: 5px;
+    font-size: 11px;
+    visibility: visible;
+    margin-top: -2px;
+    bottom:120%;
+    margin-left: -2em;
+}
+
+.tooltip .tooltip-arrow {
+    bottom: 0;
+    left: 50%;
+    margin-left: -5px;
+    border-top: 5px solid #000000;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    position: absolute;
+    width: 0;
+    height: 0;
+}
+
+.tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background-color: #000000;
+    -webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
+}

@@ -1,0 +1,61 @@
+.linen_custom_order_status {
+	display: inline-block;
+	text-align: center;
+	padding: 0 5px;
+	background: #666;
+	font-size: 11px;
+	line-height: 22px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+	color: #fff;
+	font-weight: normal;
+}
+
+.linen_order_cols_li {
+	padding: 3px 3px 3px 6px;
+	cursor: move;
+	width: 150px;
+	min-height: 30px;
+	line-height: 30px;
+	list-style-type: none;
+	display: inline-block;
+	border: 1px solid #f2f2f2;
+	margin: 3px;
+	background: #fff;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+}
+.linen_order_cols_li.inactive{
+	background: #ccc;
+}
+.linen_order_cols_li label {
+	padding-right: 0em;
+	position: relative;
+	top:auto;
+}
+.linen_order_cols_li input{
+	margin: 0 5px 0 0;
+}
+
+
+th.column-linen_order_total,
+th.column-linen_order_number,
+th.column-shipping_costs,
+th.column-customer_ip,
+th.column-order_discount,
+th.column-cart_discount,
+th.column-total_discount {
+	width: 9%;
+}
+th.column-linen_shipping_option,
+th.column-linen_payment_option,
+th.column-linen_phone_number {
+	width: 11%;
+}
+th.column-linen_customer_name,
+th.column-linen_email {
+	width: 15%;
+}

@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce_scheduler\n"
+"POT-Creation-Date: 2016-04-07 12:25+0530\n"
+"PO-Revision-Date: 2016-04-07 12:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: templates\n"
+
+#: woocommerce-scheduler.php:36 woocommerce-scheduler.php:39
+#: includes/woo-schedule-single-view.php:85
+msgid "WooCommerce Scheduler"
+msgstr ""
+
+#: woocommerce-scheduler.php:41
+msgid "WisdmLabs"
+msgstr ""
+
+#: woocommerce-scheduler.php:196
+msgid "Start date must be less than end date"
+msgstr ""
+
+#: woocommerce-scheduler.php:197
+msgid "Start time must be less than end time"
+msgstr ""
+
+#: woocommerce-scheduler.php:233
+#, php-format
+msgid ""
+"%s %s is inactive. %s Install and activate %sWoocommerce%s for %s to work."
+msgstr ""
+
+#: templates/lPageDisplay.php:32
+msgid "No response from server. Please try again later."
+msgstr ""
+
+#: templates/lPageDisplay.php:40
+msgid "Please enter license key."
+msgstr ""
+
+#: templates/lPageDisplay.php:47
+msgid "Your license key is activated."
+msgstr ""
+
+#: templates/lPageDisplay.php:54 templates/lPageDisplay.php:61
+msgid "Your license key has Expired. Please, Renew it."
+msgstr ""
+
+#: templates/lPageDisplay.php:54 templates/lPageDisplay.php:75
+#, php-format
+msgid "Your License Key is already activated at : %s"
+msgstr ""
+
+#: templates/lPageDisplay.php:68
+msgid "Your license key is Disabled."
+msgstr ""
+
+#: templates/lPageDisplay.php:75 templates/lPageDisplay.php:89
+msgid ""
+"Please deactivate the license from one of the above site(s) to successfully "
+"activate it on your current site."
+msgstr ""
+
+#: templates/lPageDisplay.php:82
+msgid "Please enter valid license key."
+msgstr ""
+
+#: templates/lPageDisplay.php:89
+#, php-format
+msgid "Your License Key is already activated at: %s"
+msgstr ""
+
+#: templates/lPageDisplay.php:96
+msgid "Site inactive(Press Activate license to activate plugin)"
+msgstr ""
+
+#: templates/lPageDisplay.php:103
+msgid "License Key is deactivated"
+msgstr ""
+
+#: templates/lPageDisplay.php:112
+#, php-format
+msgid "%s License Options"
+msgstr ""
+
+#: templates/lPageDisplay.php:118
+msgid "License Key"
+msgstr ""
+
+#: templates/lPageDisplay.php:139
+msgid "License Status"
+msgstr ""
+
+#: templates/lPageDisplay.php:143 templates/lPageDisplay.php:155
+msgid "Active"
+msgstr ""
+
+#: templates/lPageDisplay.php:147 templates/lPageDisplay.php:151
+#: templates/lPageDisplay.php:158 templates/lPageDisplay.php:163
+msgid "Not Active"
+msgstr ""
+
+#: templates/lPageDisplay.php:175 templates/lPageDisplay.php:188
+#: templates/lPageDisplay.php:206
+msgid "Activate License"
+msgstr ""
+
+#: templates/lPageDisplay.php:182 templates/lPageDisplay.php:196
+msgid "Deactivate License"
+msgstr ""
+
+#: templates/lPageDisplay.php:191 templates/lPageDisplay.php:198
+msgid "Renew License"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:109 includes/woo-schedule-ajax.php:128
+msgid "Select "
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:119
+msgid "Loading..."
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:119
+msgid "Show Schedule"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:150 includes/woo-schedule-ajax.php:189
+msgid "Wrong selection."
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:216
+msgid "details updated"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:226
+msgid "Selection empty"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:258 includes/class-scheduler-admin.php:113
+msgid "Monday"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:259 includes/class-scheduler-admin.php:114
+msgid "Tuesday"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:260 includes/class-scheduler-admin.php:115
+msgid "Wednesday"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:261 includes/class-scheduler-admin.php:116
+msgid "Thursday"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:262 includes/class-scheduler-admin.php:117
+msgid "Friday"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:263 includes/class-scheduler-admin.php:118
+msgid "Saturday"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:264 includes/class-scheduler-admin.php:119
+msgid "Sunday"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:269
+#, php-format
+msgid "Schedule %s"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:275
+msgid "Start date"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:277
+msgid "End date"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:286
+msgid "Days of Week"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:308
+msgid "Set Schedule"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:375
+msgid "Schedule Details"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:411
+msgid "Name"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:412
+msgid "Start Date"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:413
+msgid "End Date"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:416
+msgid "Days selection"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:454
+msgid "Product ID incorrect"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:478
+msgid "Term ID incorrect"
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:495
+msgid "No details saved."
+msgstr ""
+
+#: includes/woo-schedule-ajax.php:725 includes/woo-schedule-ajax.php:770
+msgid "No details saved"
+msgstr ""
+
+#: includes/woo-expiration-setting.php:20
+msgid "Scheduler Setting"
+msgstr ""
+
+#: includes/woo-expiration-setting.php:21
+msgid ""
+"Schedule product on a per day basis or the entire duration from start date "
+"to end date"
+msgstr ""
+
+#: includes/woo-expiration-setting.php:26
+msgid "Per Day"
+msgstr ""
+
+#: includes/woo-expiration-setting.php:27
+msgid "Entire Duration"
+msgstr ""
+
+#: includes/woo-expiration-setting.php:33
+msgid "Single Product Expiration Message"
+msgstr ""
+
+#: includes/woo-expiration-setting.php:34
+msgid ""
+"Error Message to be shown on the Single Product page when product is "
+"unavailable."
+msgstr ""
+
+#: includes/woo-expiration-setting.php:44
+msgid "Shop Page Expiration Message"
+msgstr ""
+
+#: includes/woo-expiration-setting.php:45
+msgid ""
+"Error Message to be shown on the shop page when product is unavailable. Keep "
+"short to fit into limited space. Can also be kept blank to show no error"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:31
+msgid "Schedule Products"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:49
+msgid "Loading"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:50
+msgid "Details updated."
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:51
+msgid "Selection empty."
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:52
+msgid "This will override all scheduler entries, Do you want to proceed?"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:53
+msgid "This will delete entry, Do you want to proceed?"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:54
+msgid "Please select"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:64
+msgid "End time can't be less than start time"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:65
+msgid "Please Select Time"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:66
+msgid "Start date must be less than End date"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:67
+msgid "Please enter all details"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:93
+msgid "Select Option"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:96
+msgid "Select Product or Category"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:97
+msgid "Products"
+msgstr ""
+
+#: includes/woo-schedule-single-view.php:98
+msgid "Product category"
+msgstr ""
+
+#: includes/woo-schedule-functions.php:251
+msgid ""
+"You can set a custom message in Woocommerce->Settings->General->Product "
+"Expiration Message"
+msgstr ""
+
+#: includes/class-scheduler-admin.php:29
+msgid "Hide Product When Unavailable"
+msgstr ""
+
+#: includes/class-scheduler-admin.php:30
+msgid "Display product only in scheduled time"
+msgstr ""
+
+#: includes/class-scheduler-admin.php:77
+msgid "Start Date:"
+msgstr ""
+
+#: includes/class-scheduler-admin.php:85
+msgid "End Date:"
+msgstr ""
+
+#: includes/class-scheduler-admin.php:93
+msgid "Start Time:"
+msgstr ""
+
+#: includes/class-scheduler-admin.php:99
+msgid "End Time:"
+msgstr ""
+
+#: includes/class-scheduler-admin.php:109
+msgid "Days of Week:"
+msgstr ""

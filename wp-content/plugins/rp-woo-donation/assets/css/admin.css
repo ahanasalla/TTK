@@ -1,0 +1,8 @@
+.rp_table tr td{padding-bottom: 15px;}
+.rpdocontainer tr td.label{font-weight: bold;}
+.input_field{width:150px;}
+label.px{font-size: 12px;font-style: italic;font-weight: bold;text-transform: lowercase;}
+.rp_table tr td.setting{  border-bottom: 2px solid #000;    color: #000;    font-size: 15px;    font-weight: bold;    padding-bottom: 5px;}
+.rpdocontainer{width:90%;margin-top:20px;}
+.rpdocontainer .hndle{margin: 0px;padding: 10px 15px;}
+.rp_table{width:100%;}

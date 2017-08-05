@@ -1,0 +1,720 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Click And Pick\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-27 21:12+0200\n"
+"PO-Revision-Date: Mon Jun 27 2016 22:04:11 GMT+0200 (EET)\n"
+"Last-Translator: admin <oaattia@gmail.com>\n"
+"Language-Team: \n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ar_AE"
+
+#: classes/branches/branch.php:77
+#: classes/shipping/click.n.pick.shipping.class.php:89 extras/CPT.php:569
+msgid "Title"
+msgstr ""
+
+#: classes/branches/branch.php:78
+msgid "Working hours"
+msgstr ""
+
+#: classes/branches/branch.php:79
+msgid "Working days"
+msgstr ""
+
+#: classes/branches/branch.php:80 classes/branches/branch.php:194
+#: classes/branches/branch.php:203
+msgid "Vacations"
+msgstr ""
+
+#: classes/branches/branch.php:81 extras/CPT.php:593
+msgid "Date"
+msgstr ""
+
+#: classes/branches/branch.php:91
+msgid "No working hours specified"
+msgstr ""
+
+#: classes/branches/branch.php:103
+msgid "No Working days specified"
+msgstr ""
+
+#: classes/branches/branch.php:114
+msgid "No Vacations Specified"
+msgstr ""
+
+#: classes/branches/branch.php:136
+msgid "Working Hours"
+msgstr ""
+
+#: classes/branches/branch.php:144 classes/branches/branch.php:173
+msgid "From"
+msgstr ""
+
+#: classes/branches/branch.php:151 classes/branches/branch.php:181
+msgid "To"
+msgstr ""
+
+#: classes/branches/branch.php:164
+msgid "Working Days"
+msgstr ""
+
+#: classes/branches/branch.php:224
+msgid "Add note for this branch"
+msgstr ""
+
+#: classes/branches/branch.php:232
+msgid "Note"
+msgstr ""
+
+#: classes/branches/branch.php:244
+msgid "Branch's order pickup delay"
+msgstr ""
+
+#: classes/branches/branch.php:252
+msgid "Delay (in hours)"
+msgstr ""
+
+#: classes/branches/branch.php:264
+msgid "Get location on map"
+msgstr ""
+
+#: classes/branches/branch.php:284
+msgid "Drag the marker to set the exact location"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:25
+#: classes/shipping/click.n.pick.shipping.class.php:28
+msgid "Click And Pick"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:63
+msgid "Enable"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:65
+msgid "Enable Click And Pick"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:69
+msgid "Theme"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:71
+msgid "Select the color theme of the date time picker in the checkout"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:79
+msgid "Time Format"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:81
+msgid "Select the time format (12 hours format or 24 hours format)"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:91
+msgid "Click and pick"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:92
+msgid "You can add your title here"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:95
+msgid "Cost"
+msgstr ""
+
+#: classes/shipping/click.n.pick.shipping.class.php:98
+msgid "You can add your cost here, leave empty if it's free"
+msgstr ""
+
+#: emails/email.class.php:44 front/order-details-html.php:9
+msgid "Click and Pick Details"
+msgstr ""
+
+#: emails/email.class.php:49 front/order-details-html.php:12
+msgid "Pickup Branch :"
+msgstr ""
+
+#: emails/email.class.php:56 front/order-details-html.php:16
+msgid "Pickup time chosen by user:"
+msgstr ""
+
+#: emails/email.class.php:64 front/order-details-html.php:21
+msgid "Actual pickup time for this order :"
+msgstr ""
+
+#: extras/CPT.php:385 extras/CPT.php:386 extras/CPT.php:387 extras/CPT.php:388
+#: extras/CPT.php:483 extras/CPT.php:484 extras/CPT.php:485 extras/CPT.php:582
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: extras/CPT.php:389
+msgid "Add New"
+msgstr ""
+
+#: extras/CPT.php:390 extras/CPT.php:490
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: extras/CPT.php:391 extras/CPT.php:487
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: extras/CPT.php:392
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: extras/CPT.php:393 extras/CPT.php:488
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: extras/CPT.php:394 extras/CPT.php:494
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: extras/CPT.php:395 extras/CPT.php:499
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: extras/CPT.php:396
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: extras/CPT.php:397 extras/CPT.php:493
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: extras/CPT.php:486
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: extras/CPT.php:489
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: extras/CPT.php:491
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: extras/CPT.php:492
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: extras/CPT.php:495
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: extras/CPT.php:496
+#, php-format
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: extras/CPT.php:497
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: extras/CPT.php:498
+#, php-format
+msgid "Choose from most used %s"
+msgstr ""
+
+#: extras/CPT.php:659
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: extras/CPT.php:785
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:82
+#: extras/cmb2/tests/test-cmb-field.php:206
+msgid "Test Metabox"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:93 extras/cmb2/example-functions.php:380
+msgid "Test Text"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:94 extras/cmb2/example-functions.php:106
+#: extras/cmb2/example-functions.php:114 extras/cmb2/example-functions.php:122
+#: extras/cmb2/example-functions.php:131 extras/cmb2/example-functions.php:139
+#: extras/cmb2/example-functions.php:153 extras/cmb2/example-functions.php:160
+#: extras/cmb2/example-functions.php:168 extras/cmb2/example-functions.php:185
+#: extras/cmb2/example-functions.php:194 extras/cmb2/example-functions.php:202
+#: extras/cmb2/example-functions.php:209 extras/cmb2/example-functions.php:216
+#: extras/cmb2/example-functions.php:230 extras/cmb2/example-functions.php:243
+#: extras/cmb2/example-functions.php:256 extras/cmb2/example-functions.php:268
+#: extras/cmb2/example-functions.php:277 extras/cmb2/example-functions.php:285
+#: extras/cmb2/example-functions.php:294 extras/cmb2/example-functions.php:301
+#: extras/cmb2/example-functions.php:315 extras/cmb2/example-functions.php:381
+#: extras/cmb2/example-functions.php:475 extras/cmb2/example-functions.php:483
+#: extras/cmb2/example-functions.php:490 extras/cmb2/example-functions.php:497
+#: extras/cmb2/example-functions.php:504 extras/cmb2/example-functions.php:511
+#: extras/cmb2/example-functions.php:518 extras/cmb2/example-functions.php:556
+#: extras/cmb2/tests/test-cmb-field.php:218
+msgid "field description (optional)"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:105
+msgid "Test Text Small"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:113
+msgid "Test Text Medium"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:121
+msgid "Website URL"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:130
+msgid "Test Text Email"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:138
+msgid "Test Time"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:145 extras/cmb2/example-functions.php:146
+msgid "Time zone"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:152
+msgid "Test Date Picker"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:201
+msgid "Test Text Area"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:208
+msgid "Test Text Area Small"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:215
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:222
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:223
+msgid "This is a title description"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:229
+msgid "Test Select"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:235 extras/cmb2/example-functions.php:248
+#: extras/cmb2/example-functions.php:260
+msgid "Option One"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:236 extras/cmb2/example-functions.php:249
+#: extras/cmb2/example-functions.php:261
+msgid "Option Two"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:237 extras/cmb2/example-functions.php:250
+#: extras/cmb2/example-functions.php:262
+msgid "Option Three"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:242
+msgid "Test Radio inline"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:255
+msgid "Test Radio"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:267
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:276
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:284
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:293
+msgid "Test Checkbox"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:300
+#: extras/cmb2/tests/test-cmb-field.php:217
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:306
+#: extras/cmb2/tests/test-cmb-field.php:223
+msgid "Check One"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:307
+#: extras/cmb2/tests/test-cmb-field.php:224
+msgid "Check Two"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:308
+#: extras/cmb2/tests/test-cmb-field.php:225
+msgid "Check Three"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:314
+msgid "Test wysiwyg"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:322
+msgid "Test Image"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:323
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: extras/cmb2/example-functions.php:329
+msgid "Multiple Files"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:330
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: extras/cmb2/example-functions.php:337
+msgid "oEmbed"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:338
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress."
+"org/Embeds</a>."
+msgstr ""
+
+#: extras/cmb2/example-functions.php:371
+msgid "About Page Metabox"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:402
+msgid "Repeating Field Group"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:410
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:412
+msgid "Entry {#}"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:413
+msgid "Add Another Entry"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:414
+msgid "Remove Entry"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:426
+msgid "Entry Title"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:433
+msgid "Description"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:434
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:440
+msgid "Entry Image"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:446
+msgid "Image Caption"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:474
+msgid "Extra Info"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:482
+msgid "Avatar"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:489
+msgid "Facebook URL"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:503
+msgid "Google+ URL"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:510
+msgid "Linkedin URL"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:517
+msgid "User Field"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:540
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: extras/cmb2/example-functions.php:555
+msgid "Site Background Color"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2.php:119
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2.php:316
+msgid "Click to toggle"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Ajax.php:135
+#: extras/cmb2/tests/test-cmb-types.php:774
+msgid "Remove Embed"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Ajax.php:139
+#: extras/cmb2/tests/test-cmb-types.php:775
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Field.php:893
+msgid "Add Group"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Field.php:894
+msgid "Remove Group"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Field.php:916
+#: extras/cmb2/includes/CMB2_Field.php:920
+#: extras/cmb2/tests/test-cmb-field.php:178
+msgid "None"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:356
+#: extras/cmb2/includes/CMB2_Types.php:989
+#: extras/cmb2/includes/CMB2_hookup.php:194
+#: extras/cmb2/tests/test-cmb-types.php:155
+#: extras/cmb2/tests/test-cmb-types.php:163
+#: extras/cmb2/tests/test-cmb-types.php:723
+#: extras/cmb2/tests/test-cmb-types.php:748
+msgid "Remove"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:725
+#: extras/cmb2/includes/CMB2_Types.php:773
+msgid "No terms"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:838
+#: extras/cmb2/tests/test-cmb-types.php:699
+#: extras/cmb2/tests/test-cmb-types.php:725
+msgid "Add or Upload Files"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:896
+#: extras/cmb2/tests/test-cmb-types.php:735
+#: extras/cmb2/tests/test-cmb-types.php:750
+msgid "Add or Upload File"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:970
+#: extras/cmb2/includes/CMB2_hookup.php:193
+msgid "Remove Image"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:984
+#: extras/cmb2/includes/CMB2_hookup.php:195
+#: extras/cmb2/tests/test-cmb-types.php:724
+#: extras/cmb2/tests/test-cmb-types.php:749
+msgid "File:"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_Types.php:987
+#: extras/cmb2/includes/CMB2_hookup.php:196
+#: extras/cmb2/tests/test-cmb-types.php:722
+#: extras/cmb2/tests/test-cmb-types.php:747
+msgid "Download"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:139
+#: extras/cmb2/includes/CMB2_hookup.php:176
+msgid "Clear"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:140
+msgid "Default"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:141
+msgid "Select Color"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:142
+msgid "Current Color"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:167
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:168
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:169
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:170
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:171
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:172
+msgid "Next"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:173
+msgid "Prev"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:174
+msgid "Today"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:175
+#: extras/cmb2/includes/CMB2_hookup.php:185
+msgid "Done"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:179
+msgid "Choose Time"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:180
+msgid "Time"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:181
+msgid "Hour"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:182
+msgid "Minute"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:183
+msgid "Second"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:184
+msgid "Now"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:192
+msgid "Use this file"
+msgstr ""
+
+#: extras/cmb2/includes/CMB2_hookup.php:197
+msgid "Select / Deselect All"
+msgstr ""
+
+#: extras/cmb2/includes/helper-functions.php:249
+msgid "Save"
+msgstr ""
+
+#: front/html.php:29
+msgid "Choose Pickup Date"
+msgstr ""
+
+#: front/html.php:181
+msgid "No branches found"
+msgstr ""
+
+#: front/html.php:48
+msgid "Our location on map"
+msgstr "موقعنا على الخريطة"

@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.byconsolewooodt_widget_date_field,.byconsolewooodt_widget_time_field{ width:100% !important;}
+
+p.buttons{ text-align:center;}
+
+input[type="submit"]{ width:300px;}
+
+p.min-shipping-time{ text-align:center;}
+
+p.min-shipping-time img{ height:30px;}
+
+.woocommerce form .form-row select { padding:7px;}
+
+#byconsolewooodt_checkout_field input[type="radio"]{float: left;  margin-top: 10px;}
+
+form select{ padding:7px; width:100%; margin-top: 5px; margin-bottom: 10px;}
+
+.byconsolewooodt_delivery_type_of_delivery_time_radio_box{float: left;margin-right: 8px;font-size: 12px;margin-top: 5px;font-weight: bold !important;}
+
+#byconsolewooodt_delivery_type_of_delivery_time_hidden_field{display:none;}
+
+/*.radio byconsolewooodt_delivery_type_of_widget_delivery_time_radio_box, label{font-size:12px !important;}*/
+
+
+

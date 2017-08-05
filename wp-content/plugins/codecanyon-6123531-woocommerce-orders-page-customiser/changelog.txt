@@ -1,0 +1,29 @@
+*** WooCommerce Orders Page Customiser Changelog ***
+2015.05.11 - version 1.3.1
+ * Fix bug with missing columns on Orders Page.
+
+2015.03.06 - version 1.3
+ * Dynamic table and fixed table options.
+ * Draggable or static column widths.
+ * Select which columns are enabled and disabled.
+ * Shift away from local to global settings.
+
+2014.09.25 - version 1.2
+ * Tweak to the screen options.
+ * Tweak to the status text style.
+
+2013.12.11 - version 1.1
+ * Enhanced Status (Text) to show with any dynamic width and in capitlised letters, also to match WC 2.1.
+ * Tweak titles of some columns to match WC 2.1.
+ * Fix currency symbol of WooCommerce to show before price texts.
+ * Fix Shipping Method text data.
+ * Fix Customer Name to show even if Guest account.
+
+2013.11.21 - version 1.0.2
+ * Enhanced drag and drop UI added.
+
+2013.11.02 - version 1.0.1
+ * Text edited for “Reorder Columns”.
+
+2013.11.01 - version 1.0
+ * Initial release!

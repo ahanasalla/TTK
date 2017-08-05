@@ -1,0 +1,65 @@
+#lean_overlay {
+    position: fixed;
+    z-index:100;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width:100%;
+    background: #000;
+    display: none;
+}
+
+
+.click-pick-location-map{
+    width: 400px;
+    height: 400px;
+
+}
+
+
+#click-n-pick-branches {
+    padding-left: 0;
+}
+
+#click-n-pick-branches li {
+    list-style: none;
+}
+
+#click-n-pick-branches .branch-date {
+    margin-bottom: 4px;
+    margin-top: 13px;
+}
+
+#click-n-pick-branches li.click-n-pick-span {
+    line-height: 23px;
+    padding-top: 2px;
+    padding-bottom: 8px;
+}
+
+#click-n-pick-branches li.click-n-pick-list {
+    padding: 0 0;
+}
+
+#click-n-pick-branches li.click-n-pick-span span,  #click-n-pick-branches li.click-n-pick-span a{
+    font-size: 13px;
+    color: #818181;
+}
+
+.dialog {
+    width: 100%;
+    height: 100%;
+    background: #ddd;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 0.1em 1em;
+}
+
+.xdsoft_next, .xdsoft_prev {
+    display: none !important;
+}
+
+.xdsoft_datetimepicker .xdsoft_month {
+    width: 112px;
+    text-align: right;
+}

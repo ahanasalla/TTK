@@ -1,0 +1,223 @@
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: pdo_pgsql: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/oauth.so' - /usr/php/56/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[22-Mar-2017 01:06:45 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 19:35:08 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: pdo_pgsql: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/oauth.so' - /usr/php/56/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-Mar-2017 19:35:09 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: pdo_pgsql: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/oauth.so' - /usr/php/56/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[10-Apr-2017 03:56:05 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: pdo_pgsql: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/oauth.so' - /usr/php/56/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[12-Apr-2017 22:56:18 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: pdo_pgsql: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/oauth.so' - /usr/php/56/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[20-Apr-2017 19:35:21 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 19:15:02 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 19:15:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/pdo_mysql.so' - /usr/php/56/usr/lib64/php/modules/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[21-Apr-2017 19:15:02 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 19:15:02 UTC] PHP Warning:  PHP Startup: pdo_pgsql: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 19:15:02 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 19:15:02 UTC] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 19:15:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/oauth.so' - /usr/php/56/usr/lib64/php/modules/oauth.so: undefined symbol: zval_used_for_init in Unknown on line 0
+[21-Apr-2017 19:15:03 UTC] PHP Warning:  PHP Startup: oci8: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[21-Apr-2017 19:15:03 UTC] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[31-May-2017 05:23:58 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/thetownk/public_html/wp-content/plugins/hello.php on line 60

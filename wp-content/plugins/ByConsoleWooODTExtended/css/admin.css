@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+#del_pickup{cursor:pointer;}
+#del_delivery{cursor:pointer;}
+table {font-size: 1em;}
+.ui-draggable, .ui-droppable {background-position: top;}
+.closings_by_day{width:21%;}
+.closings_by_day span{padding-right: 20px;width: 20%;}
+.closings_by_day input[type=radio], input[type=checkbox]{width: 5%;float: right;}
+.calendar_opentext{font-size:10px; margin-left:10px;}
+#byconsolewooodt_as_early_as_possible_and_exact_time_text_lable_enable{float: left;width: 10px;}
