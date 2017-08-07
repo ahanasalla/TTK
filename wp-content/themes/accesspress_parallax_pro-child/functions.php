@@ -124,3 +124,26 @@ add_action('ttk_top_page_header', function($pageId) {
         }
     }
 });
+
+add_action('woocommerce_cart_loaded_from_session', 'wh_checkAndUpdateCart');
+
+function wh_checkAndUpdateCart()
+{
+
+    //if the cart is empty do nothing
+    if (WC()->cart->get_cart_contents_count() == 0)
+    {
+        return;
+    }
+
+    foreach (WC()->cart->get_cart() as $cart_item_key => $cart_item)
+    {
+        $product_id = $cart_item['product_id']; // Product ID
+        $product_qty = $cart_item['quantity']; // Product quantity
+
+        if (has_term('hot-lunch', 'product_tag', $product_id) && ($product_qty < 30))
+        {
+            WC()->cart->set_quantity($cart_item_key, 30);
+        }
+    }
+}
