@@ -1,4 +1,8 @@
 <?php
+  //show category description
+  $term_object = get_queried_object();
+  session_start();
+  $_SESSION['category_date'] = $term_object->name;
 /**
  * The Template for displaying product archives, including the main shop page which is a post type archive
  *
