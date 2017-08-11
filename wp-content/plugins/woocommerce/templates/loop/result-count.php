@@ -23,7 +23,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 global $wp_query;
-
+  //show category description
+  $term_object = get_queried_object();
+  session_start();
+  $_SESSION['category_date'] = $term_object->name;
+  
 if ( ! woocommerce_products_will_display() ) {
 	return;
 }
