@@ -157,6 +157,10 @@ function wh_checkAndUpdateCart()
         {
             WC()->cart->set_quantity($cart_item_key, 30);
         }
+        else if (has_term('hot-lunch-italian', 'product_tag', $product_id) && ($product_qty < 30))
+        {
+            WC()->cart->set_quantity($cart_item_key, 30);
+        }
     }
 }
 
