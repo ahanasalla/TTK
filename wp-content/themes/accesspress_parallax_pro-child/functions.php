@@ -141,25 +141,25 @@ function wh_checkAndUpdateCart()
         $product_id = $cart_item['product_id']; // Product ID
         $product_qty = $cart_item['quantity']; // Product quantity
 
-        if (has_term('hot-lunch-med', 'product_tag', $product_id) && ($product_qty < 30))
+        if (has_term('hot-lunch-med', 'product_tag', $product_id) && ($product_qty < 20))
         {
-            WC()->cart->set_quantity($cart_item_key, 30);
+            WC()->cart->set_quantity($cart_item_key, 20);
         }
-        else if (has_term('hot-lunch-sic', 'product_tag', $product_id) && ($product_qty < 30))
+        else if (has_term('hot-lunch-sic', 'product_tag', $product_id) && ($product_qty < 20))
         {
-            WC()->cart->set_quantity($cart_item_key, 30);
+            WC()->cart->set_quantity($cart_item_key, 20);
         }
-        else if (has_term('hot-lunch-indian', 'product_tag', $product_id) && ($product_qty < 30))
+        else if (has_term('hot-lunch-indian', 'product_tag', $product_id) && ($product_qty < 20))
         {
-            WC()->cart->set_quantity($cart_item_key, 30);
+            WC()->cart->set_quantity($cart_item_key, 20);
         }
-        else if (has_term('hot-lunch-korean', 'product_tag', $product_id) && ($product_qty < 30))
+        else if (has_term('hot-lunch-korean', 'product_tag', $product_id) && ($product_qty < 20))
         {
-            WC()->cart->set_quantity($cart_item_key, 30);
+            WC()->cart->set_quantity($cart_item_key, 20);
         }
-        else if (has_term('hot-lunch-italian', 'product_tag', $product_id) && ($product_qty < 30))
+        else if (has_term('hot-lunch-italian', 'product_tag', $product_id) && ($product_qty < 20))
         {
-            WC()->cart->set_quantity($cart_item_key, 30);
+            WC()->cart->set_quantity($cart_item_key, 20);
         }
     }
 }
