@@ -165,6 +165,10 @@ function wh_checkAndUpdateCart()
         {
             WC()->cart->set_quantity($cart_item_key, 20);
         }
+        else if (has_term('hot-lunch-american', 'product_tag', $product_id) && ($product_qty < 20))
+        {
+            WC()->cart->set_quantity($cart_item_key, 20);
+        }
     }
 }
 
